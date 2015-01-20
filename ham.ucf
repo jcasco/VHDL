@@ -1,0 +1,31 @@
+
+
+NET "dat3" LOC = B4;
+NET "dat5" LOC = F3;
+NET "dat6" LOC = E2;
+NET "dat7" LOC = N3;
+NET "enc" LOC = P11;
+NET "parIn1" LOC = L3;
+NET "parIn2" LOC = K3;
+NET "parIn4" LOC = G3;
+NET "parOut1" LOC = M5;
+NET "parOut2" LOC = M11;
+NET "parOut4" LOC = P7;
+
+NET "enc" CLOCK_DEDICATED_ROUTE = FALSE;
+
+
+NET "aBar" LOC = L14;
+NET "an3" LOC = K14;
+NET "bBar" LOC = H12;
+NET "cBar" LOC = N14;
+NET "dBar" LOC = N11;
+NET "eBar" LOC = P12;
+NET "fBar" LOC = L13;
+NET "gBar" LOC = M12;
+
+# PlanAhead Generated physical constraints 
+
+NET "an0" LOC = F12;
+NET "an1" LOC = J12;
+NET "an2" LOC = M13;
